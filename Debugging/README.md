@@ -1,0 +1,1 @@
+Here I show how to debug with the Python debugger. I go through the difference between runtime and compiletime errors as well as how to read a stacktrace.

@@ -1,1 +1,1 @@
-Here I am developing some jupyter notebooks that I will share with people in our group to help them make better figuers, do MCMC, and other tasks.
+Here I develop a notebook that shows how to make good looking figures. I show examples of bad asthetic choices and ways to improve them.
