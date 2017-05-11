@@ -1,0 +1,1 @@
+Here I have notebooks that contain solutions to the problems in David Hogg's 2010 paper "Data analysis recipes: fitting a model to data".
