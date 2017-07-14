@@ -1,0 +1,1 @@
+This directory contains notebooks that demonstrate the use of Gaussian Processes, mostly through the module [george](http://dan.iel.fm/george/current/).
